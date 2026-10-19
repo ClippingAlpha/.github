@@ -1,2 +1,0 @@
-# .github
-ClippingAlpha organization profile
